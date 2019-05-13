@@ -8,6 +8,8 @@ body {
     width: 100%;
     padding: 30px;
     background-image: url('../../assets/images/background.jpg');
+    opacity: 0.5;
+    background
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
