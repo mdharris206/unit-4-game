@@ -123,3 +123,5 @@ function onAttack() {
     }
     myCharacter.attackPoints = myCharacter.attackPoints + myAttackPoints;
 }
+
+$("#attack-button").click(function() {onAttack()});
